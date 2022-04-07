@@ -6,6 +6,10 @@ Name: Chenhao Li; Andrew ID: chenhao3
 
 I will complete this project alone. I believe the workload is suitable for me.
 
+# Milestone
+
+See [milestone.pdf](milestone.pdf).
+
 # Summary
 
 I will implement a lock-free binary search tree and skip list,
