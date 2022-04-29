@@ -6,6 +6,10 @@ Name: Chenhao Li; Andrew ID: chenhao3
 
 I will complete this project alone. I believe the workload is suitable for me.
 
+# Final
+
+See [final.pdf](final.pdf) and [poster.pdf](poster.pdf). The presentation video link is inside [final.pdf](final.pdf).
+
 # Milestone
 
 See [milestone.pdf](milestone.pdf).
